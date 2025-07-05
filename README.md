@@ -1,0 +1,1 @@
+Este proyecto aborda la necesidad de optimizar los procesos de valoración de derivados financieros mediante herramientas de programación eficientes y adaptadas al entorno operativo de una mesa de dinero.
